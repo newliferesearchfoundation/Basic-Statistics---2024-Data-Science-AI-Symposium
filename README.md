@@ -1,6 +1,6 @@
 ### Basic Statistics
 
-**Instructors:** Deepan Pitchairaj
+**Instructor:** Deepan Pitchairaj
 
 **Teaching Assistants (TAs):** Abraham Sunday Idu, Emmanuel Ocholi Benjamin, Andrew Balincura and Mfeuter Joseph Tachia
  
